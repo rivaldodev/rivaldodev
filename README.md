@@ -20,7 +20,7 @@ I’m particularly interested in backend development and am continuously learnin
 ### Skills
 -  **Languages**: <img  align="center"  alt="Rivs-Js"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img  align="center"  alt="Rivs-Node"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><img  align="center"  alt="Rivs-Python"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"><img  align="center"  alt="Rivs-PHP"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><img  align="center"  alt="Rivs-C"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><img  align="center"  alt="Rivs-Java"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
--  **Technologies**: Flask, NodeJS, APIs
+-  **Technologies**: Flask, Express.js, NodeJS, APIs
 
 -  **Concepts**: Object-Oriented Programming, Numerical Methods, SQL Databases
 
