@@ -22,7 +22,7 @@ class Habilidades extends Developer {
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rivaldodev/rivaldo-profile/output/snake.svg" alt="Snake animation" />
 ###
 ### Sobre Mim
 
@@ -123,7 +123,7 @@ class Skills extends Developer {
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rivaldodev/rivaldo-profile/output/snake.svg" alt="Snake animation" />
 ###
 ### About Me
 
