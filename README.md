@@ -77,7 +77,7 @@ Sou estudante de Ciência e Tecnologia (UFERSA) com foco em Engenharia de Comput
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=T-picos-Especiais-em-Ci-ncia-e-Tecnologia&theme=tokyonight"/>
     </a>
   </div>
-
+![snake gif](https://github.com/rivaldodev/rivaldodev/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### Experiência de Sistemas Operacionais
