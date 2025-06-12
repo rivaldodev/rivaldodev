@@ -19,10 +19,11 @@ class Habilidades extends Developer {
   outrasHabilidades = ["Desenvolvimento Backend", "Integrações de API", "Práticas de Engenharia de Software"];
 }
 ```
-<div align="center">
-  <img src="https://github.com/rivaldodev/rivaldodev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/arielesilvaa/arielesilvaa/output/snake.svg" alt="Snake animation" />
+###
 ### Sobre Mim
 
 Sou Desenvolvedor Web com foco em PHP e um forte compromisso com a utilização de práticas de Engenharia de Software para construir soluções robustas, eficientes e escaláveis. Minha formação em Ciência e Tecnologia com especialização em Engenharia da Computação (UFERSA) forneceu uma base sólida para o domínio de tecnologias como JavaScript, Node.js, Python e Java, além da aplicação de conceitos de Programação Orientada a Objetos e bancos de dados SQL.
@@ -119,7 +120,11 @@ class Skills extends Developer {
   otherSkills = ["Backend Development", "API Integration", "Software Engineering Practices"];
 }
 ```
+###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/arielesilvaa/arielesilvaa/output/snake.svg" alt="Snake animation" />
+###
 ### About Me
 
 I am a Web Developer with a focus on PHP and a strong commitment to using Software Engineering practices to build robust, efficient, and scalable solutions. My degree in Science and Technology with a specialization in Computer Engineering (UFERSA) has provided a solid foundation for mastering technologies like JavaScript, Node.js, Python, and Java, as well as applying Object-Oriented Programming and SQL database concepts.
