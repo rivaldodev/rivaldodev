@@ -204,4 +204,3 @@ Currently, I work on developing and maintaining management systems at **Cactus T
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-333333?style=flat&logo=zorin) ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=Manjaro)  ![Lubuntu](https://img.shields.io/badge/-Lubuntu-333333?style=flat&logo=lubuntu) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=Linux%20Mint) ![KUbuntu](https://img.shields.io/badge/-KUbuntu-333333?style=flat&logo=KUbuntu) ![Kali](https://img.shields.io/badge/-Kali-333333?style=flat&logo=kalilinux) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=arch-linux)   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) 
 
 </div>
-```
