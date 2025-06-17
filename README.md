@@ -24,6 +24,14 @@ class Habilidades extends Developer {
 
 ![Snake animation](https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/snake.svg)
 ###
+
+### GitHub Stats ⚡
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+###
+
 ### Sobre Mim
 
 Sou Desenvolvedor Web com foco em PHP e um forte compromisso com a utilização de práticas de Engenharia de Software para construir soluções robustas, eficientes e escaláveis. Minha formação em Ciência e Tecnologia com especialização em Engenharia da Computação (UFERSA) forneceu uma base sólida para o domínio de tecnologias como JavaScript, Node.js, Python e Java, além da aplicação de conceitos de Programação Orientada a Objetos e bancos de dados SQL.
