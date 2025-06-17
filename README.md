@@ -30,7 +30,7 @@ class Habilidades extends Developer {
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-###
+
 
 ### Sobre Mim
 
