@@ -27,7 +27,7 @@ class Habilidades extends Developer {
 
 ### GitHub Stats ⚡
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais&hide=scss)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
