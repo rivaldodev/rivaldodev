@@ -52,7 +52,7 @@ Atualmente, atuo no desenvolvimento e manutenção de sistemas de gestão na **C
 ---
 
 ### Experiência Profissional
-- **Desenvolvedor de Sistemas @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Novembro/2023 - Atual)
+- **Desenvolvedor de Sistemas @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Novembro/2024 - Atual)
   - Desenvolvimento e manutenção de sistemas de gestão com foco em backend.
   - *Tecnologias: PHP, MySQL, JavaScript, HTML.*
 
@@ -153,7 +153,7 @@ Currently, I work on developing and maintaining management systems at **Cactus T
 ---
 
 ### Professional Experience
-- **Systems Developer @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Nov 2023 - Present)
+- **Systems Developer @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Nov 2024 - Present)
   - Development and maintenance of management systems with a focus on the backend.
   - *Technologies: PHP, MySQL, JavaScript, HTML.*
 
