@@ -1,216 +1,208 @@
 
-## Olá, me chamo Rivaldo, também conhecido como Rivs 👋
-<img src="https://img.shields.io/static/v1?label=Overview&message=rivaldodev&color=2e2e3a&style=for-the-badge&logo=GitHub&logoColor=f8efd4" alt="Static GitHub">
+<div align="center">
 
-```js
-import Desenvolvedor from "rivaldodev";
+<h1>Olá, eu sou o Rivaldo (Rivs) ☕🚀</h1>
+<p><strong>Desenvolvedor backend focado em criar APIs claras, integrações eficientes e código sustentável.</strong><br/>Transformo processos soltos em sistemas simples, estáveis e rápidos — evitando overengineering.</p>
 
-class SobreMim extends Developer {
-  name = "Rivaldo Freitas de Carvalho";
-  nicknames = ["Rivs", "rivaldodev"]
-  areas = ["Desenvolvimento Web", "Engenharia de Software", "Engenharia da Computação"];
-  local = "Mossoró, Rio Grande do Norte, Brasil";
-}
+<p>
+<a href="mailto:rivaldo.freitas.106@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lrivsl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0e76a8?style=flat-square&logo=linkedin"/></a>
+<a href="https://api.whatsapp.com/send?phone=+5585988025690"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="https://instagram.com/lrivsl"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@lrivsl-DF0174?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
-class Habilidades extends Developer {
-  linguagens = ["PHP", "Node.JS", "JavaScript", "Python", "Java", "HTML"];
-  frameworks = ["Laravel", "Express.JS", "Flask"];
-  databases = ["MySQL"];
-  outrasHabilidades = ["Desenvolvimento Backend", "Integrações de API", "Práticas de Engenharia de Software"];
-}
-```
-###
-<br clear="both">
+<img src="https://img.shields.io/static/v1?label=GitHub&message=rivaldodev&color=2e2e3a&style=for-the-badge&logo=GitHub&logoColor=f8efd4" alt="Static GitHub"/>
 
+</div>
+
+---
+
+## 🧾 Resumo Profissional
+Desenvolvedor backend (atuação full stack quando necessário) com experiência no ciclo completo de desenvolvimento: análise, modelagem, implementação, integração e entrega. Já construí e mantive backends escaláveis para manipular e servir grandes volumes de dados, expondo APIs consumidas por frontends e automações. Experiência integrando aplicações a serviços de IA (TensorFlow, OpenAI, Gemini, Groq) e construindo fluxos de automação inteligentes usando ferramentas low-code/orquestração como **n8n**. Foco em transformar necessidades de negócio em soluções limpas, previsíveis e sustentáveis, colaborando com times multidisciplinares.
+
+> Princípios que me guiam: clareza > complexidade, automação de tarefas repetitivas e feedback rápido (logs, métricas, testes). 
+
+## 🔥 Visão Geral Rápida
+| Área | Foco Atual |
+|------|------------|
+| Backend | Desenvolvimento de APIs, domínios claros, escalabilidade pragmática |
+| Arquitetura | Modularização, Clean Code, SOLID |
+| Banco de Dados | Modelagem relacional (MySQL, PostgreSQL) e otimização de consultas |
+| Integrações | APIs REST/HTTP, serviços de IA, autenticação |
+| Práticas | Versionamento, documentação pragmática, automação |
+
+> Evolução contínua: padrões, testes e observabilidade em múltiplas stacks backend.
+
+---
+
+<!-- Foco em backend geral sem destacar linguagem única -->
+
+## 🧠 Sobre Mim
+Sou Desenvolvedor Backend (Engenharia da Computação - UFERSA). Gosto de pegar regras de negócio difusas e traduzi-las em código limpo e sustentável, evitando overengineering. Experiência construindo sistemas com diferentes linguagens e frameworks, mantendo foco em clareza arquitetural e domínio.
+
+**Interesses atuais:** Domain Modeling, Otimização de Queries, Observabilidade, integrações com IA aplicada.
+
+---
+
+## 🛠️ Stack & Ferramentas
+**Linguagens Principais:** PHP, Java, JavaScript/TypeScript, Python, SQL.
+
+**Backend / Frameworks:** Laravel, Express, Flask, (Spring Boot em progressão).
+
+**Automação & Orquestração:** n8n (fluxos inteligentes), scripts utilitários, cron / scheduling.
+
+**Bancos de Dados:** MySQL (modelagem, índices, normalização pragmática), PostgreSQL (relacional, queries otimizadas), Redis (cache / chave-valor), NoSQL (explorações iniciais).
+
+**IA & Ferramentas Cognitivas:** Integração com APIs (OpenAI, Gemini, Groq), TensorFlow (conceitos / uso de modelos), geração de conteúdo e pipelines auxiliares.
+
+**Observabilidade & Qualidade:** Logs estruturados, validação de entrada, separação de camadas, testes em adoção gradual.
+
+**Ferramentas & DevOps Leve:** Docker, GitHub Actions (planejado), Git, Render, Vercel, Puppeteer (automação de navegador).
+
+**Frontend de Apoio:** HTML, CSS/Bootstrap, consumo de APIs REST, React (noções) para prototipagem.
+
+**Boas Práticas:** SOLID, responsabilidade única, coesão de módulos, documentação viva no README, commits descritivos.
+
+---
+
+## 📌 Projetos em Destaque
+### Labs / Estudos Atuais
+- **[JavaCoffee](https://github.com/rivaldodev/JavaCoffee)**: Laboratório de padrões e organização de camadas.
+
+### Backend & Regras de Negócio
+- **[mini-erp](https://github.com/rivaldodev/mini-erp)**: Gestão de vendas (pedidos, produtos, cupons). Ênfase em clareza de fluxo e organização de entidades.
+- **[teste_funcionarios_laravel](https://github.com/rivaldodev/teste_funcionarios_laravel)**: CRUD completo com filtros e UI reativa (Laravel + Alpine.js). Bom para avaliar padrões backend simples.
+
+### Integração & IA
+- **[stable-diffusion-xl-api](https://github.com/rivaldodev/stable-diffusion-xl-api)**: Wrapper Node.js para geração de imagens (adaptação de versão Python). Demonstra integração externa.
+- **[api-integracao-IA](https://github.com/rivaldodev/api-integracao-IA)**: Experimentos iniciais de orquestração de chamadas de IA.
+
+### Aprendizado / Bases Técnicas
+- **[Login-Python-SQL](https://github.com/rivaldodev/Login-Python-SQL)**: Autenticação + créditos (Flask) – fundamentos de sessão e persistência.
+- **[estudos-php](https://github.com/rivaldodev/estudos-php)**: Exercícios de fundamentos e algoritmos introdutórios em PHP.
+
+### Front / Experimentos
+- **[tiny-cats](https://github.com/rivaldodev/tiny-cats)**: Front simples (TypeScript) consumindo API – demonstração de integração leve.
+
+> Sugerido como pins: `JavaCoffee`, `mini-erp`, `stable-diffusion-xl-api`, `teste_funcionarios_laravel`, `Login-Python-SQL`, `tiny-cats`.
+
+---
+
+## 🎯 Competências
+| Categoria | Itens |
+|----------|-------|
+| Arquitetura | Camadas claras, DTOs enxutos, organização modular |
+| APIs | REST, versionamento, serialização consistente |
+| Dados | Modelagem relacional, índices básicos, normalização pragmática |
+| Performance | Cache básico (Redis), redução de sobrecarga em queries |
+| Automação | n8n, scripts, geração assistida por IA |
+| Qualidade | Logs estruturados, validações, passos iniciais de testes |
+| Colaboração | Comunicação clara, alinhamento de requisitos, revisão de código |
+| Segurança (básico) | Autenticação, controle básico de acesso, sanitização |
+
+---
+
+## 📊 Métricas
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" height="190" src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg" />
 </picture>
-
-###
-
-### GitHub Stats ⚡
-
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais&hide=scss)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-
-### Sobre Mim
-
-Sou Desenvolvedor Web com foco em PHP e um forte compromisso com a utilização de práticas de Engenharia de Software para construir soluções robustas, eficientes e escaláveis. Minha formação em Ciência e Tecnologia com especialização em Engenharia da Computação (UFERSA) forneceu uma base sólida para o domínio de tecnologias como JavaScript, Node.js, Python e Java, além da aplicação de conceitos de Programação Orientada a Objetos e bancos de dados SQL.
-
-Atualmente, atuo no desenvolvimento e manutenção de sistemas de gestão na **Cactus Tecnologia da Informação**. Tenho paixão por resolver problemas complexos e estou sempre expandindo meu conhecimento em desenvolvimento backend e novas tecnologias.
-
-<p align="center">
-  <a href="mailto:rivaldo.freitas.106@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/lrivsl" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=+5585988025690" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://instagram.com/lrivsl" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-### Experiência Profissional
-- **Desenvolvedor de Sistemas @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Novembro/2024 - Atual)
-  - Desenvolvimento e manutenção de sistemas de gestão com foco em backend.
-  - *Tecnologias: PHP, MySQL, JavaScript, HTML.*
-
-- **Backend Developer @ [Fatores.AI](https://fatores.ai/)** (Novembro/2023 - Outubro/2024)
-  - Desenvolvimento de soluções backend e integração com serviços de Inteligência Artificial.
-  - *Tecnologias: PHP, Laravel, Backend Development, AI.*
-
----
-
-### Habilidades
--  **Linguagens**:![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) ![Node.js](https://img.shields.io/badge/node.js-333333?logo=nodedotjs&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-
--  **Frameworks e Tecnologias**: ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Expressjs](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
--  **Conceitos**: Engenharia de Software, Programação Orientada a Objetos, Métodos Numéricos, SQL
-
- <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&layout=compact&langs_count=9&theme=tokyonight&hide_progress=true&hide=scss,html)
+<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&layout=compact&theme=tokyonight&hide_border=true&hide=scss,html" />
 </div>
 
+> Dica: manter apenas métricas que carregam rápido evita poluição visual e problemas de cache.
+
 ---
 
-### Projetos
-- #### [mini-erp](https://github.com/rivaldodev/mini-erp): Um sistema web completo de gerenciamento de vendas desenvolvido em PHP com foco em simplicidade, eficiência e organização de pedidos, produtos e cupons de desconto. Ideal para pequenos negócios.
-  <div align="center">
+## 🗂️ Experiência Profissional
+| Período | Função | Empresa | Principais Atividades |
+|---------|--------|---------|----------------------|
+| 11/2024 → atual | Programador de Sistemas | Cactus Tecnologia da Informação | Manutenção evolutiva de sistemas de gestão, implementação de novas funcionalidades backend, melhoria de consultas e organização de módulos. |
+| 10/2023 → 10/2024 | Backend Developer | Fatores.AI | Desenvolvimento de soluções backend integradas a serviços de IA (OpenAI / Gemini / Groq), automação de fluxos, endpoints para processamento e entrega de dados. |
+
+**Resumo de atuação:** foco em clareza de código, redução de retrabalho e entrega incremental.
+
+---
+
+## 🧩 Roadmap Público (2025)
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=mini-erp&theme=tokyonight)](https://github.com/rivaldodev/mini-erp)
-</div>
 
-- #### [estudos-php](https://github.com/rivaldodev/estudos-php): Este projeto contém uma série de scripts PHP projetados para praticar conceitos básicos de programação, explorando estruturas e recursos fundamentais da linguagem.
-  <div align="center">
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=estudos-php&theme=tokyonight)](https://github.com/rivaldodev/estudos-php)
-</div>
- 
-- #### [Login-Python-SQL](https://github.com/rivaldodev/Login-Python-SQL): Um sistema simples de login e cadastro com gerenciamento de crédito construído em Python e Flask, integrado com SQL para gerenciamento de banco de dados.
-  <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=Login-Python-SQL&theme=tokyonight)](https://github.com/rivaldodev/Login-Python-SQL)
-</div>
+## 🎓 Formação Acadêmica
+Em andamento (2020 → atual)  
 
---- 
+## 📜 Certificações & Atividades
+- Monitor de Programação Orientada a Objetos – Java (UFERSA)  
+  - 08/2021–06/2022 (540h) e 08/2022–05/2023 (456h)
+- AWS: Generative AI with Diffusion Models (06/2025)
+- AWS: Introduction to Generative AI (06/2025)
+- AWS: Introduction to Machine Learning (06/2025)
 
-### Experiência com Sistemas Operacionais
- <div align="center">
- 
- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-333333?style=flat&logo=zorin) ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=Manjaro)  ![Lubuntu](https://img.shields.io/badge/-Lubuntu-333333?style=flat&logo=lubuntu) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=Linux%20Mint) ![KUbuntu](https://img.shields.io/badge/-KUbuntu-333333?style=flat&logo=KUbuntu) ![Kali](https://img.shields.io/badge/-Kali-333333?style=flat&logo=kalilinux) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=arch-linux)   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) 
-
-</div>
- 
- -----
-
-# **English Version**
-
-## Hey, I'm Rivaldo, aka Rivs 👋
-<img src="https://img.shields.io/static/v1?label=Overview&message=rivaldodev&color=2e2e3a&style=for-the-badge&logo=GitHub&logoColor=f8efd4" alt="Static GitHub">
-
-```js
-import Developer from "rivaldodev";
-
-class AboutMe extends Developer {
-  name = "Rivaldo Freitas de Carvalho";
-  nicknames = ["Rivs", "rivaldodev"]
-  areas = ["Web Development", "Software Engineering", "Computer Engineering"];
-  local = "Mossoró, Rio Grande do Norte, Brazil";
-}
-
-class Skills extends Developer {
-  languages = ["PHP", "Node.JS", "JavaScript", "Python", "Java", "HTML"];
-  frameworks = ["Laravel", "Express.JS", "Flask"];
-  databases = ["MySQL"];
-  otherSkills = ["Backend Development", "API Integration", "Software Engineering Practices"];
-}
-```
-###
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-### About Me
-
-I am a Web Developer with a focus on PHP and a strong commitment to using Software Engineering practices to build robust, efficient, and scalable solutions. My degree in Science and Technology with a specialization in Computer Engineering (UFERSA) has provided a solid foundation for mastering technologies like JavaScript, Node.js, Python, and Java, as well as applying Object-Oriented Programming and SQL database concepts.
-
-Currently, I work on developing and maintaining management systems at **Cactus Tecnologia da Informação**. I have a passion for solving complex problems and am constantly expanding my knowledge in backend development and new technologies.
-
-<p align="center">
-  <a href="mailto:rivaldo.freitas.106@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/lrivsl" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=+5585988025690" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://instagram.com/lrivsl" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+> Monitoria reforçou fundamentos de POO, abstração e didática ao explicar conceitos para outros alunos.
 
 ---
 
-### Professional Experience
-- **Systems Developer @ [Cactus Tecnologia da Informação](https://cactustecnologia.com.br/)** (Nov 2024 - Present)
-  - Development and maintenance of management systems with a focus on the backend.
-  - *Technologies: PHP, MySQL, JavaScript, HTML.*
-
-- **Backend Developer @ [Fatores.AI](https://fatores.ai/)** (Nov 2023 - Oct 2024)
-  - Development of backend solutions and integration with Artificial Intelligence services.
-  - *Technologies: PHP, Laravel, Backend Development, AI.*
+## 🌐 Idiomas
+- Português: Nativo
+- Inglês: Intermediário (leitura técnica, documentação, integração de APIs)
 
 ---
 
-### Skills
--  **Languages**:![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) ![Node.js](https://img.shields.io/badge/node.js-333333?logo=nodedotjs&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-
--  **Frameworks & Technologies**: ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Expressjs](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
--  **Concepts**: Software Engineering, Object-Oriented Programming, Numerical Methods, SQL
-
- <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&layout=compact&langs_count=9&theme=tokyonight&hide_progress=true&hide=scss,html)
+## 💻 Sistemas Operacionais
+<div align="center">
+Linux (Arch / Ubuntu / Mint / Zorin / Manjaro / Kali) • Windows 11
+<br/>
+<img src="https://img.shields.io/badge/Linux-333?logo=linux&style=flat" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </div>
 
 ---
 
-### Projects
-- #### [mini-erp](https://github.com/rivaldodev/mini-erp): A complete web-based sales management system developed in PHP, focusing on simplicity, efficiency, and organization of orders, products, and discount coupons. Ideal for small businesses.
-  <div align="center">
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=mini-erp&theme=tokyonight)](https://github.com/rivaldodev/mini-erp)
-</div>
+<details>
+<summary><strong>English Version 🌍</strong></summary>
 
-- #### [estudos-php](https://github.com/rivaldodev/estudos-php): This project contains a series of PHP scripts designed to practice basic programming concepts, exploring fundamental structures and features of the language.
-  <div align="center">
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=estudos-php&theme=tokyonight)](https://github.com/rivaldodev/estudos-php)
-</div>
- 
-- #### [Login-Python-SQL](https://github.com/rivaldodev/Login-Python-SQL): A simple login and registration system with credit management built in Python and Flask, integrated with SQL for database management.
-  <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldodev&repo=Login-Python-SQL&theme=tokyonight)](https://github.com/rivaldodev/Login-Python-SQL)
-</div>
+### Quick Intro
+Backend developer with experience across the full delivery cycle: analysis, design, implementation, integration and iteration. I’ve built and maintained data‑serving backends, integrated AI services (OpenAI, Gemini, Groq, TensorFlow concepts) and automated workflows using low‑code orchestration (n8n). I aim for clarity, predictable delivery and lean architecture.
 
---- 
+### Current Focus
+- Refining backend structure & data flows
+- Strengthening domain modeling & database design
+- Lean integrations with AI services
+- Continuous exploration of patterns across stacks
 
-### OS Experience
- <div align="center">
- 
- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-333333?style=flat&logo=zorin) ![Manjaro](https://img.shields.io/badge/-Manjaro-333333?style=flat&logo=Manjaro)  ![Lubuntu](https://img.shields.io/badge/-Lubuntu-333333?style=flat&logo=lubuntu) ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=Linux%20Mint) ![KUbuntu](https://img.shields.io/badge/-KUbuntu-333333?style=flat&logo=KUbuntu) ![Kali](https://img.shields.io/badge/-Kali-333333?style=flat&logo=kalilinux) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=arch-linux)   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows) 
+### Highlighted Projects (English Summary)
+| Domain | Project | Note |
+|--------|---------|------|
+| Java Foundations | JavaCoffee | Patterns & structure playground |
+| Business / ERP | mini-erp | Sales & inventory flows |
+| Laravel CRUD | teste_funcionarios_laravel | Filtering + responsive UI |
+| AI Integration | stable-diffusion-xl-api | External API wrapper |
+| Auth & Basics | Login-Python-SQL | Flask fundamentals |
+| Front Experiment | tiny-cats | TS + API consumption |
 
-</div>
+### 2025 Roadmap (EN)
+Enhance backend projects (tests + CI) • Architectural comparative notes • Introduce lightweight CI • Observability intro • Share short article on layered vs pragmatic modular approaches.
+
+### Education
+Science & Technology (UFERSA) – ongoing (2020 → )
+
+### Certifications
+- OOP Teaching Assistant (Java) – two periods (540h + 456h)
+- AWS (2025): Intro to ML, Intro to Generative AI, Diffusion Models
+
+Feel free to reach out for collaboration or code review ideas.
+
+</details>
+
+---
+
+### Contato
+Se quiser trocar ideia sobre arquitetura, otimização ou design de APIs → abra uma issue em algum repositório ou mande mensagem. 😉
+
+---
+
