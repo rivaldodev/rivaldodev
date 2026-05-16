@@ -1,157 +1,120 @@
-
 <div align="center">
 
-<h1>Olá, eu sou o Rivaldo (Rivs) ☕🚀</h1>
-<p><strong>Desenvolvedor backend focado em criar APIs claras, integrações eficientes e código sustentável.</strong><br/>Transformo processos soltos em sistemas simples, estáveis e rápidos — evitando overengineering.</p>
+# Olá, eu sou o Rivaldo Freitas de Carvalho (Rivs) ☕
+
+**Desenvolvedor FullStack com foco em backend, APIs, integrações e aplicações web sustentáveis.**  
+Transformo regras de negócio e processos soltos em soluções simples, performáticas e fáceis de evoluir.
 
 <p>
-<a href="mailto:rivaldo.freitas.106@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/lrivsl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0e76a8?style=flat-square&logo=linkedin"/></a>
-<a href="https://api.whatsapp.com/send?phone=+5585988025690"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-<a href="https://instagram.com/lrivsl"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@lrivsl-DF0174?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:rivaldo.freitas.106@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contato-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lrivsl"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+5585988025690"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25d366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://instagram.com/1rivs1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@1rivs1-DF0174?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://img.shields.io/static/v1?label=GitHub&message=rivaldodev&color=2e2e3a&style=for-the-badge&logo=GitHub&logoColor=f8efd4" alt="Static GitHub"/>
+<img src="https://img.shields.io/static/v1?label=GitHub&message=rivaldodev&color=2e2e3a&style=for-the-badge&logo=GitHub&logoColor=f8efd4" alt="GitHub rivaldodev"/>
 
 </div>
 
 ---
 
-## 🧾 Resumo Profissional
-Desenvolvedor backend (atuação full stack quando necessário) com experiência no ciclo completo de desenvolvimento: análise, modelagem, implementação, integração e entrega. Já construí e mantive backends escaláveis para manipular e servir grandes volumes de dados, expondo APIs consumidas por frontends e automações. Experiência integrando aplicações a serviços de IA (TensorFlow, OpenAI, Gemini, Groq) e construindo fluxos de automação inteligentes usando ferramentas low-code/orquestração como **n8n**. Foco em transformar necessidades de negócio em soluções limpas, previsíveis e sustentáveis, colaborando com times multidisciplinares.
+## Sobre Mim
 
-> Princípios que me guiam: clareza > complexidade, automação de tarefas repetitivas e feedback rápido (logs, métricas, testes). 
+Sou desenvolvedor FullStack e estudante de Ciência e Tecnologia na UFERSA. Tenho experiência no ciclo completo de desenvolvimento web, atuando em frontend, backend, análise, integração, manutenção e evolução de sistemas.
 
-## 🔥 Visão Geral Rápida
-| Área | Foco Atual |
-|------|------------|
-| Backend | Desenvolvimento de APIs, domínios claros, escalabilidade pragmática |
-| Arquitetura | Modularização, Clean Code, SOLID |
-| Banco de Dados | Modelagem relacional (MySQL, PostgreSQL) e otimização de consultas |
-| Integrações | APIs REST/HTTP, serviços de IA, autenticação |
-| Práticas | Versionamento, documentação pragmática, automação |
+Atuo principalmente com construção de APIs, organização de domínios, modelagem relacional, automações e integrações com serviços externos, incluindo soluções com IA. Tenho forte orientação a performance, escalabilidade, boas práticas, Git e metodologias ágeis.
 
-> Evolução contínua: padrões, testes e observabilidade em múltiplas stacks backend.
+**Foco atual:** arquitetura, APIs, integrações, performance, automação com n8n e evolução técnica contínua.
 
 ---
 
-<!-- Foco em backend geral sem destacar linguagem única -->
+## Visão Geral
 
-## 🧠 Sobre Mim
-Sou Desenvolvedor Backend (Engenharia da Computação - UFERSA). Gosto de pegar regras de negócio difusas e traduzi-las em código limpo e sustentável, evitando overengineering. Experiência construindo sistemas com diferentes linguagens e frameworks, mantendo foco em clareza arquitetural e domínio.
-
-**Interesses atuais:** Domain Modeling, Otimização de Queries, Observabilidade, integrações com IA aplicada.
-
----
-
-## 🛠️ Stack & Ferramentas
-**Linguagens Principais:** PHP, Java, JavaScript/TypeScript, Python, SQL.
-
-**Backend / Frameworks:** Laravel, Express, Flask, (Spring Boot em progressão).
-
-**Automação & Orquestração:** n8n (fluxos inteligentes), scripts utilitários, cron / scheduling.
-
-**Bancos de Dados:** MySQL (modelagem, índices, normalização pragmática), PostgreSQL (relacional, queries otimizadas), Redis (cache / chave-valor), NoSQL (explorações iniciais).
-
-**IA & Ferramentas Cognitivas:** Integração com APIs (OpenAI, Gemini, Groq), TensorFlow (conceitos / uso de modelos), geração de conteúdo e pipelines auxiliares.
-
-**Observabilidade & Qualidade:** Logs estruturados, validação de entrada, separação de camadas, testes em adoção gradual.
-
-**Ferramentas & DevOps Leve:** Docker, GitHub Actions (planejado), Git, Render, Vercel, Puppeteer (automação de navegador).
-
-**Frontend de Apoio:** HTML, CSS/Bootstrap, consumo de APIs REST, React (noções) para prototipagem.
-
-**Boas Práticas:** SOLID, responsabilidade única, coesão de módulos, documentação viva no README, commits descritivos.
+| Área | Atuação |
+|------|---------|
+| FullStack | Aplicações web, frontend integrado a APIs e manutenção evolutiva |
+| Backend | APIs REST, regras de negócio, serviços internos e integrações |
+| Arquitetura | Modularização, separação de responsabilidades, Clean Code e SOLID |
+| Dados | MySQL, SQL Server, PostgreSQL, Redis, modelagem relacional e otimização de consultas |
+| Automação | n8n, scripts utilitários, rotinas agendadas, RabbitMQ e fluxos integrados |
+| IA | Integração com OpenAI API, Gemini, Groq e conceitos de TensorFlow |
+| Qualidade | Logs, validações, documentação pragmática e testes em evolução |
 
 ---
 
-## 📌 Projetos em Destaque
-### Labs / Estudos Atuais
-- **[JavaCoffee](https://github.com/rivaldodev/JavaCoffee)**: Laboratório de padrões e organização de camadas.
+## Stack & Ferramentas
 
-### Backend & Regras de Negócio
-- **[mini-erp](https://github.com/rivaldodev/mini-erp)**: Gestão de vendas (pedidos, produtos, cupons). Ênfase em clareza de fluxo e organização de entidades.
-- **[teste_funcionarios_laravel](https://github.com/rivaldodev/teste_funcionarios_laravel)**: CRUD completo com filtros e UI reativa (Laravel + Alpine.js). Bom para avaliar padrões backend simples.
-
-### Integração & IA
-- **[stable-diffusion-xl-api](https://github.com/rivaldodev/stable-diffusion-xl-api)**: Wrapper Node.js para geração de imagens (adaptação de versão Python). Demonstra integração externa.
-- **[api-integracao-IA](https://github.com/rivaldodev/api-integracao-IA)**: Experimentos iniciais de orquestração de chamadas de IA.
-
-### Aprendizado / Bases Técnicas
-- **[Login-Python-SQL](https://github.com/rivaldodev/Login-Python-SQL)**: Autenticação + créditos (Flask) – fundamentos de sessão e persistência.
-- **[estudos-php](https://github.com/rivaldodev/estudos-php)**: Exercícios de fundamentos e algoritmos introdutórios em PHP.
-
-### Front / Experimentos
-- **[tiny-cats](https://github.com/rivaldodev/tiny-cats)**: Front simples (TypeScript) consumindo API – demonstração de integração leve.
-
-> Sugerido como pins: `JavaCoffee`, `mini-erp`, `stable-diffusion-xl-api`, `teste_funcionarios_laravel`, `Login-Python-SQL`, `tiny-cats`.
+**Linguagens:** PHP, JavaScript, Java, Python, SQL  
+**Backend:** Laravel, Node.js, Express, Flask  
+**Frontend:** React.js, Angular, HTML, CSS, Bootstrap, consumo de APIs REST  
+**Bancos de Dados:** MySQL, SQL Server, PostgreSQL, Redis  
+**Mensageria & Automação:** RabbitMQ, n8n, scripts utilitários, rotinas agendadas  
+**IA:** OpenAI API, Gemini, Groq, TensorFlow, pipelines auxiliares  
+**DevOps leve:** Docker, Jenkins, Git, GitHub, GitHub Actions, Render, Vercel  
+**Práticas:** SOLID, coesão de módulos, documentação viva, commits descritivos
 
 ---
 
-## 🎯 Competências
-| Categoria | Itens |
-|----------|-------|
-| Arquitetura | Camadas claras, DTOs enxutos, organização modular |
-| APIs | REST, versionamento, serialização consistente |
-| Dados | Modelagem relacional, índices básicos, normalização pragmática |
-| Performance | Cache básico (Redis), redução de sobrecarga em queries |
-| Automação | n8n, scripts, geração assistida por IA |
-| Qualidade | Logs estruturados, validações, passos iniciais de testes |
-| Colaboração | Comunicação clara, alinhamento de requisitos, revisão de código |
-| Segurança (básico) | Autenticação, controle básico de acesso, sanitização |
+## Experiência Profissional
+
+| Período | Função | Empresa | Tecnologias |
+|---------|--------|---------|-------------|
+| 09/2025 → atual | Desenvolvedor FullStack | Dunnas Tecnologia e Consultoria | Java, JavaScript, React, Angular, SQL Server, Docker, Jenkins, Git, GitHub |
+| 11/2024 → 08/2025 | Programador de Sistemas | Cactus Tecnologia da Informação | PHP, MySQL, JavaScript, Git, GitHub |
+| 12/2023 → 10/2024 | Desenvolvedor Backend | Fatores.AI | PHP, Laravel, Redis, IA, Git, GitHub |
 
 ---
 
-## 📊 Métricas
+## Formação & Atividades
+
+**Ensino Superior - Ciência e Tecnologia**  
+Universidade Federal Rural do Semi-Árido (UFERSA)  
+Em andamento | 04/2020 → atual
+
+**Monitor de Programação Orientada a Objetos - Java (UFERSA)**  
+08/2021-06/2022 (540h) e 08/2022-05/2023 (456h)
+
+**Cursos e Certificações**
+- [JAVA - Cubos Academy](https://aulas.cubos.academy/certificado/e09ab105-39b9-4466-b2e2-eb079da9455c/cursos/043bf48d-f1e5-40b8-aaf8-f044784a6cfd) | 13/04/2026
+- [Trilha de Java - Cubos Academy](https://aulas.cubos.academy/certificado/c6357448-8dd7-4e96-9695-3fcf9d51d77d/cursos/42b2fe31-d25f-438e-bc9f-9cb948cba74b) | 09/09/2025
+- [Desenvolvimento de Software - Cubos Academy](https://aulas.cubos.academy/certificado/c3ac280a-9350-4be1-9359-dc1a976a9fa5/cursos/bc25d9d5-a358-445a-a2e8-8ae67dbc3257) | 22/08/2025
+- [FullStack Avançado - Cubos Academy](https://aulas.cubos.academy/certificado/6dbda7f6-c6c0-41d8-8ba6-94747e3674c6/cursos/ac765d12-dcda-4bc2-a174-589a98d37562) | 22/08/2025
+
+---
+
+## Foco Público
+
+- Fortalecer projetos full stack e backend com testes, documentação e CI.
+- Evoluir estudos comparativos entre stacks, integrações e padrões arquiteturais.
+- Aplicar observabilidade básica em projetos públicos.
+- Publicar anotações técnicas sobre modularização pragmática, dados e integrações.
+
+---
+
+## Métricas
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" height="190" src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg" />
-</picture>
-<br/>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&layout=compact&theme=tokyonight&hide_border=true&hide=scss,html" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" height="190" src="https://raw.githubusercontent.com/rivaldodev/rivaldodev/output/pacman-contribution-graph.svg" />
+  </picture>
+  <br/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rivaldodev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldodev&layout=compact&theme=tokyonight&hide_border=true&hide=scss,html" />
 </div>
 
-> Dica: manter apenas métricas que carregam rápido evita poluição visual e problemas de cache.
+---
+
+## Idiomas
+
+- Português: nativo
+- Inglês: básico
 
 ---
 
-## 🗂️ Experiência Profissional
-| Período | Função | Empresa | Principais Atividades |
-|---------|--------|---------|----------------------|
-| 11/2024 → atual | Programador de Sistemas | Cactus Tecnologia da Informação | Manutenção evolutiva de sistemas de gestão, implementação de novas funcionalidades backend, melhoria de consultas e organização de módulos. |
-| 10/2023 → 10/2024 | Backend Developer | Fatores.AI | Desenvolvimento de soluções backend integradas a serviços de IA (OpenAI / Gemini / Groq), automação de fluxos, endpoints para processamento e entrega de dados. |
+## Sistemas Operacionais
 
-**Resumo de atuação:** foco em clareza de código, redução de retrabalho e entrega incremental.
-
----
-
-## 🧩 Roadmap Público (2025)
-  
-
-## 🎓 Formação Acadêmica
-Em andamento (2020 → atual)  
-
-## 📜 Certificações & Atividades
-- Monitor de Programação Orientada a Objetos – Java (UFERSA)  
-  - 08/2021–06/2022 (540h) e 08/2022–05/2023 (456h)
-- AWS: Generative AI with Diffusion Models (06/2025)
-- AWS: Introduction to Generative AI (06/2025)
-- AWS: Introduction to Machine Learning (06/2025)
-
-> Monitoria reforçou fundamentos de POO, abstração e didática ao explicar conceitos para outros alunos.
-
----
-
-## 🌐 Idiomas
-- Português: Nativo
-- Inglês: Intermediário (leitura técnica, documentação, integração de APIs)
-
----
-
-## 💻 Sistemas Operacionais
 <div align="center">
 Linux (Arch / Ubuntu / Mint / Zorin / Manjaro / Kali) • Windows 11
 <br/>
@@ -167,42 +130,38 @@ Linux (Arch / Ubuntu / Mint / Zorin / Manjaro / Kali) • Windows 11
 <summary><strong>English Version 🌍</strong></summary>
 
 ### Quick Intro
-Backend developer with experience across the full delivery cycle: analysis, design, implementation, integration and iteration. I’ve built and maintained data‑serving backends, integrated AI services (OpenAI, Gemini, Groq, TensorFlow concepts) and automated workflows using low‑code orchestration (n8n). I aim for clarity, predictable delivery and lean architecture.
+
+FullStack developer and Science & Technology student at UFERSA, focused on web applications, APIs, integrations, automation, data modeling and maintainable systems. I enjoy turning unclear business rules into clean, pragmatic and evolvable solutions.
 
 ### Current Focus
-- Refining backend structure & data flows
-- Strengthening domain modeling & database design
-- Lean integrations with AI services
-- Continuous exploration of patterns across stacks
 
-### Highlighted Projects (English Summary)
-| Domain | Project | Note |
-|--------|---------|------|
-| Java Foundations | JavaCoffee | Patterns & structure playground |
-| Business / ERP | mini-erp | Sales & inventory flows |
-| Laravel CRUD | teste_funcionarios_laravel | Filtering + responsive UI |
-| AI Integration | stable-diffusion-xl-api | External API wrapper |
-| Auth & Basics | Login-Python-SQL | Flask fundamentals |
-| Front Experiment | tiny-cats | TS + API consumption |
+- FullStack web applications
+- Backend architecture and domain modeling
+- Relational database design and query optimization
+- API integrations and automation flows
+- Applied AI integrations with OpenAI, Gemini, Groq and orchestration tools
+- Progressive improvements in testing, CI and observability
 
-### 2025 Roadmap (EN)
-Enhance backend projects (tests + CI) • Architectural comparative notes • Introduce lightweight CI • Observability intro • Share short article on layered vs pragmatic modular approaches.
+### Experience
 
-### Education
-Science & Technology (UFERSA) – ongoing (2020 → )
+| Period | Role | Company |
+|--------|------|---------|
+| 09/2025 → present | FullStack Developer | Dunnas Tecnologia e Consultoria |
+| 11/2024 → 08/2025 | Systems Programmer | Cactus Tecnologia da Informação |
+| 12/2023 → 10/2024 | Backend Developer | Fatores.AI |
 
-### Certifications
-- OOP Teaching Assistant (Java) – two periods (540h + 456h)
-- AWS (2025): Intro to ML, Intro to Generative AI, Diffusion Models
+### Education & Activities
 
-Feel free to reach out for collaboration or code review ideas.
+Science & Technology at UFERSA - ongoing since 04/2020  
+OOP Teaching Assistant in Java at UFERSA - two periods, 540h + 456h  
+Cubos Academy certifications in Software Development, FullStack and Java
+
+Feel free to reach out for full stack, backend, automation, API design or code review conversations.
 
 </details>
 
 ---
 
 ### Contato
-Se quiser trocar ideia sobre arquitetura, otimização ou design de APIs → abra uma issue em algum repositório ou mande mensagem. 😉
 
----
-
+Aberto para trocar ideias sobre backend, arquitetura, automação, otimização de queries e design de APIs.
